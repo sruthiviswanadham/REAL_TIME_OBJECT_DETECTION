@@ -92,6 +92,7 @@ cv2.destroyAllWindows()
 
 
 ## Output:
+![Uploading WhatsApp Image 2024-10-01 at 04.39.41_bf17d37f.jpg…]()
 
 
 ## Result:
