@@ -12,7 +12,7 @@
 ### Step5: Adjust Confidence and Non-Max Suppression Thresholds
 ### Step6: Running the Script
 ## Program:
-P
+
 import cv2
 import numpy as np
 
@@ -92,7 +92,8 @@ cv2.destroyAllWindows()
 
 
 ## Output:
-![Uploading WhatsApp Image 2024-10-01 at 04.39.41_bf17d37f.jpg…]()
+![WhatsApp Image 2024-10-01 at 04 39 41_bf17d37f](https://github.com/user-attachments/assets/9568cbe3-5720-45b7-8bac-ffbd1b301cc2)
+
 
 
 ## Result:
